@@ -1,0 +1,1 @@
+# frade-repo-schema
